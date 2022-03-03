@@ -1,5 +1,7 @@
 // CC-by-www.Electrosmash.com open-source project
-// clean.c effect pedal, the signal is read by the ADC and written again 
+// clean.c effect pedal, the signal is read by the ADC and written again
+// Spark Challenge
+ 
 using 2 PWM sigmals. 
 #include <bcm2835.h>
 #include <stdio.h>
